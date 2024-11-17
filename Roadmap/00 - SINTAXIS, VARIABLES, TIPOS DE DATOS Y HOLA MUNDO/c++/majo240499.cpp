@@ -5,7 +5,7 @@
 en varias
 líneas*/
 
-#inlcude <iostream>
+#include <iostream>
 using namespace std;
 
 int main(){
@@ -13,16 +13,16 @@ int main(){
 int numero;
 
 //constante
-const float = 3.1416;
+const float pi= 3.1416;
 
 //variables
 int enteros = 2;
 float decimales = 2.76;
 string cadenas = "Hola mundo";
 char caracter =  'c';
-doble numdecimal = 5.67895;
+double numdecimal = 5.67895;
 bool miPrimerPrograma = true;
 
-cout<<"Hola, C++"<<string;
+cout<<"Hola, C++";
 }
 
